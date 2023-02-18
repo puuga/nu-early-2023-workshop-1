@@ -58,7 +58,7 @@
 58.
 59.
 60.
-61. Kittawit Sompipong
+61.
 62.
 63.
 64.
@@ -97,4 +97,4 @@
 97.
 98.
 99.
-100.
+100. Kittawit Sompipong
