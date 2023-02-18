@@ -3,7 +3,7 @@
 ```text
 1. Siwawes Wongcharoen
 2. Wuttipong Ruanthong
-3.
+3. Vachirapon Tosawat
 4.
 5.
 6.
