@@ -2,8 +2,6 @@
 
 ```text
 1. Siwawes Wongcharoen
-<<<<<<< HEAD
-=======
 2. Wuttipong Ruanthong
 3. Vachirapon Tosawat
 4.
@@ -103,6 +101,5 @@
 98.
 99.Chanthakan Witthayakit
 100.
->>>>>>> 32097bb825e9ef263d3954d8f8bc528c03e93605
+101. Polchawan Thungjawana
 ```
-2. Setthapong Lertritrungrot
