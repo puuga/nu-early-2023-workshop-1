@@ -2,5 +2,5 @@
 
 ```text
 1. Siwawes Wongcharoen
-2. Vachirapon Tosawat  
+2. Wuttipong Ruanthong
 ```
