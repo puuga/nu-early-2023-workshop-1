@@ -1,13 +1,11 @@
 # nu-early-2023-workshop-1
-
-```text
 1. Siwawes Wongcharoen
 2. Wuttipong Ruanthong
 3. Vachirapon Tosawat
 4.
 5.Thadaphong kesornporm
 6.
-7. Setthapong Lertritrungrot
+7. 
 8.
 9.
 10.
