@@ -36,7 +36,7 @@
 33.
 34.Pannawadee kaewpad
 35.
-36.
+36.Panyakorn Timchantheuck
 37.
 38.
 39.Kittipong Songsiri
