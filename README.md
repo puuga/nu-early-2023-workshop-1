@@ -76,7 +76,7 @@
 73.
 74.
 75.
-76.
+76. Tharadon Samkesorn
 77.
 78. Teerasak wichai
 79.
