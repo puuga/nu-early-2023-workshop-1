@@ -4,7 +4,7 @@
 1. Siwawes Wongcharoen
 2. Wuttipong Ruanthong
 3.
-4.tanatip kampinta
+4.
 5.
 6.
 7.
@@ -16,7 +16,7 @@
 13.
 14.
 15.
-16.
+16.tanatip kampinta
 17.
 18.
 19.
