@@ -16,12 +16,12 @@
 13.
 14.
 15.
-16.tanatip kampinta
+16.
 17.
 18.
 19.
 20.
-21.
+21.tanatip kampinta
 22.
 23.
 24.
