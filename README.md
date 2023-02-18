@@ -2,6 +2,4 @@
 
 ```text
 1. Siwawes Wongcharoen
-44. Panuphun In-jun
-
 ```
