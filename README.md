@@ -2,5 +2,5 @@
 
 ```text
 1. Siwawes Wongcharoen
-2. Pannawadee Kaewpad
+2. Wuttipong Ruanthong
 ```
