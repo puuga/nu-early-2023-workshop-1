@@ -61,7 +61,7 @@
 58.
 59.
 60.
-61. Kittawit Sompipong
+ Kittawit Sompipong
 62.
 63.
 64.
