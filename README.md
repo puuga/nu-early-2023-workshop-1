@@ -2,9 +2,5 @@
 
 ```text
 1. Siwawes Wongcharoen
-<<<<<<< HEAD
-19. Natthathida Sukmanee
-=======
-2. Wuttipong Ruanthong
->>>>>>> 45d4b5c7ae8d08550d58588859fa9fbfb4302952
+73.Natthathida Sukmanee
 ```
