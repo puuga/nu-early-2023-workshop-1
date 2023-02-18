@@ -2,8 +2,6 @@
 
 ```text
 1. Siwawes Wongcharoen
-<<<<<<< HEAD
-2. Tanatip Kampinta
-3.tanatip v3
-
-
+2. Wuttipong Ruanthong
+```
+>>>>>>> 45d4b5c7ae8d08550d58588859fa9fbfb4302952
