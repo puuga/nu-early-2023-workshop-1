@@ -15,15 +15,9 @@
 12.
 13.
 14.
-<<<<<<< HEAD
-15.
-16.tanatip kampinta
-17.
-=======
-15.Pundow KhungKhun
-16.
+15. Pundow KhungKhun
+16. tanatip kampinta
 17. Lakkana Thammathawon
->>>>>>> 023f49ebef8e23461f51044cab67065e0af5f90e
 18.
 19.
 20.
