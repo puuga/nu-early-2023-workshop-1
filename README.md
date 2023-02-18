@@ -2,9 +2,6 @@
 
 ```text
 1. Siwawes Wongcharoen
-<<<<<<< HEAD
-75. Nattapon Timthong
-=======
 2. Wuttipong Ruanthong
 3.
 4.
@@ -96,7 +93,7 @@
 90.
 91.
 92.
-93.
+93.Nattapon Timthong
 94.
 95.
 96.
