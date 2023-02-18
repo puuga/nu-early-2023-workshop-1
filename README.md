@@ -2,6 +2,6 @@
 
 ```text
 1. Siwawes Wongcharoen
-2. Panuphun In-jun
+44. Panuphun In-jun
 
 ```
