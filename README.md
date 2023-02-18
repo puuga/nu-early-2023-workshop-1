@@ -73,10 +73,10 @@
 70.
 71.
 72.
-73.Nattapon Timthong
+73.
 74.
 75.
-76.
+76.Nattapon Timthong
 77.
 78.
 79.
