@@ -2,4 +2,4 @@
 
 ```text
 1. Siwawes Wongcharoen
-2. Jetnipit Inkanya
+8. Jetnipit Inkanya
