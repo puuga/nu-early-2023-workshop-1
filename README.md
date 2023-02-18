@@ -2,6 +2,9 @@
 
 ```text
 1. Siwawes Wongcharoen
+<<<<<<< HEAD
+2. Kanicha Pojanapimond
+=======
 2. Wuttipong Ruanthong
 3.
 4.
@@ -22,7 +25,7 @@
 19.
 20.
 21.
-22.
+22. Kanicha Pojanapimond
 23.
 24.
 25.
@@ -101,4 +104,5 @@
 98.
 99.
 100.
+>>>>>>> 32097bb825e9ef263d3954d8f8bc528c03e93605
 ```
