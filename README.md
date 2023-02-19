@@ -76,7 +76,7 @@
 73.
 74.
 75.
-76.Nattapon Timthong
+76. Nattapon Timthong
 77.
 78. Teerasak wichai
 79.
