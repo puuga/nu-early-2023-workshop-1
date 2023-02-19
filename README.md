@@ -77,7 +77,7 @@
 74.
 75.
 76.
-77.Chanthakan  Witthayakit
+77.
 78.
 79.
 80.
