@@ -62,8 +62,8 @@
 59.Noppakorn Amphan
 60.
 61.
-62.
-63.Thanyarat phukruthai
+62.Sophida Tangkarn
+63.
 64.
 65.
 66.Chadaporn Thaboo
